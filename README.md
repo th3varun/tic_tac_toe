@@ -7,7 +7,7 @@ This is a simple Tic Tac Toe game developed using Flutter. The app features a sp
 - Splash screen with the app title
 - Two-player mode (Player O and Player X)
 - Score tracking for both players
-- Timer for each player's turn
+- Countdown till game end
 - Visual indicators for winning moves
 - Custom Icon
 - Custom Font Use
